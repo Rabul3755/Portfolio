@@ -44,7 +44,8 @@ const projects = [
     tech: "React.js, Node.js, Express.js, MongoDB, Tailwind CSS",
     year: "2024",
     description: "Created comprehensive civic engagement platform enabling residents to report local issues, track resolution progress, and connect with political representatives.",
-    highlights: ["Issue reporting system with geolocation", "Interactive village map", "Real-time status tracking", "Political representatives directory"]
+    highlights: ["Issue reporting system with geolocation", "Interactive village map", "Real-time status tracking", "Political representatives directory"],
+    link: "https://my-village-app.onrender.com"
   },
   {
     title: "Full-Stack Food Delivery Website",

@@ -21,7 +21,7 @@ const projects = [
     highlights: ["Interactive village map", "Real-time status tracking", "Political representatives directory"],
     icon: <Users className="w-6 h-6" />,
     color: "from-green-100 to-green-200",
-    link: "#"
+    link: "https://my-village-app.onrender.com/"
   },
   {
     title: "Full-Stack Food Delivery Website",
